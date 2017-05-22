@@ -14,7 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Created by Administrator on 2017/5/16 0016.
  */
-@WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
 
     @Override

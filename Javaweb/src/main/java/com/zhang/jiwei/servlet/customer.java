@@ -15,7 +15,6 @@ import com.zhang.jiwei.helper.DatabaseHelper;
 /**
  * Created by Administrator on 2017/5/16 0016.
  */
-@WebServlet("/customer")
 public class customer extends HttpServlet {
 
     @Override
